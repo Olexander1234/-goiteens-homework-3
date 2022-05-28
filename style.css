@@ -1,0 +1,33 @@
+/* /* primary-color: color #212121;
+ text-color: color: #757575
+ secondary-color: color: #FFFFF */
+ /* Header */
+ .logo{
+    color: #000000;
+}
+.logo-span,
+.nav-link:hover,
+.nav-link:focus,
+.link-list:hover,
+.link-list:focus,
+.logo-span{ 
+color: #2196F3;
+}  
+.link {
+    color:#212121 ;
+}
+.nav-link:hover {
+    color:#2196F3
+}
+.link-list{
+    color: #757575;
+} 
+.hero-section{
+    background-color: #2F303A;
+}
+.doom{
+    color: aliceblue;
+}
+.king{ color: #212121;
+
+}
