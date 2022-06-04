@@ -221,3 +221,35 @@ letter-spacing: 0.03em;
 .kolor12{
     color: rgba(255, 255, 255, 0.6);
 }
+.contairn{
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+img{
+    width: 370px;
+}
+.section{
+padding-top: 94px;
+padding-bottom: 94px;
+margin-top: 0;
+}
+.knopka{
+    color: aliceblue;
+    background: #2196F3;
+    position: absolute;
+width: 200px;
+height: 50px;
+left: 700px;
+top: 430px;
+
+
+}
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
